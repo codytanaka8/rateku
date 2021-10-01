@@ -1,0 +1,24 @@
+.post-head img{
+    border-radius: 50%;
+    width:55px;
+}
+
+.post-head{
+    display:grid;
+    grid-template-columns: 20% auto;
+}
+.post-content{
+    display:grid;
+    grid-template-columns: 20% auto;
+}
+.post-content img{
+    border-radius:10px;
+}
+.each-post{
+    width:34vw;
+    
+}
+
+.post-user-info{
+    text-align: left;
+}
